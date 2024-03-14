@@ -18,11 +18,11 @@ class _ForgotPasswordPageState extends State<ForgotPasswordPage> {
     final snackBar = SnackBar(
       content: Text(
         text,
+        style: const TextStyle(color: Colors.black, fontSize: 16),
       ),
+      backgroundColor: Colors.grey[300],
     );
 
-    // Find the ScaffoldMessenger in the widget tree
-    // and use it to show a SnackBar.
     ScaffoldMessenger.of(context).showSnackBar(snackBar);
   }
 
