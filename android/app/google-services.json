@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957089684105",
+    "project_id": "gamemate-mobile",
+    "storage_bucket": "gamemate-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957089684105:android:416b5a0dc5bf91fcee0458",
+        "android_client_info": {
+          "package_name": "com.example.gamemate_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEO41ciHIQb5pMquuc6WAvSoxVhKGzzuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
