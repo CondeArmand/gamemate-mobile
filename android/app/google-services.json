@@ -12,7 +12,20 @@
           "package_name": "com.example.gamemate_mobile"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "957089684105-9ro4n9m10n21ojrmc2jq9570l9d8ha4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamemate_mobile",
+            "certificate_hash": "884caffc88c551351747271230c0e73c0a163361"
+          }
+        },
+        {
+          "client_id": "957089684105-adv63b4ck36hucfaohsjj44213bevcmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBEO41ciHIQb5pMquuc6WAvSoxVhKGzzuk"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957089684105-adv63b4ck36hucfaohsjj44213bevcmp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "957089684105-l30utp19fbaopi25fhoeprejm7hfbjou.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gamemateMobile"
+              }
+            }
+          ]
         }
       }
     }
